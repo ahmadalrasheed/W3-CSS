@@ -1,0 +1,78 @@
+header div p{display:inline-block;font-size: 18px;padding: 0px ;font-family: "Montserrat", sans-serif;}
+
+header div{border-bottom-style:inset;border-color: black;border-width: 2px;}
+
+body{margin: 0;}
+
+header section h1,h2,h3{text-align: center;font-family: "Montserrat", sans-serif;}
+
+header section h1{font-size: 64px;color: white;}
+header section h2{font-size: 24px;color: white;}
+header section h3{font-size: 24px;color: white;}
+
+#intro{height:60px;}
+
+
+header{background-color: #f44336;}
+
+header section {height:310px;}
+
+header div p a{text-decoration: none;color: white;}
+
+section h3 a{text-decoration: none;color: white;}
+
+header div a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  
+}
+
+header div a:hover, a:active {
+  background-color: white;
+  color: black;
+}
+
+#firstanchor{background-color: white;color:black;}
+
+#firstanchor{background-color: white;color:black;}
+
+#secondanchor:link,#secondanchor:visited{background-color: black;color:white;padding: 10px 20px;}
+
+#secondanchor:hover,#secondanchor:active{background-color: #DDDDDD;color:black;}
+
+.first{width:700px;margin-left: 100px;margin-top: 100px;float:left;}
+
+
+ 
+
+#firstimage{height: 200px;width:250px;float: right;margin: 100px 210px;}
+
+
+
+#secondsection{   background-color:#f1f1f1;position: absolute;top: 0;
+left: 0;width: 100%;margin-top: 830px; }
+
+
+.third{float: left;}
+
+#secondimage{height:300px ;width:380px;margin: 90px 0 0 180px; }
+
+.forth{float:right;width: 700px;margin: 90px 100px 0 0; }
+
+h1{font-size: 25px;}
+
+#thirdsection{text-align: center;width: 100%;position: absolute;height: 160px;top: 0;left: 0;margin-top: 1225px;background-color: #686D76}
+
+#thirdsection p{font-family: "Montserrat", sans-serif;font-size: 25px;margin-top: 70px;color: white; }
+
+#forthsection{text-align: center;width: 100%;position: absolute;height: 160px;top: 0;left: 0;margin-top: 1385px;background-color: #f1f1f1}
+
+#forthsection p{font-family: "Montserrat", sans-serif;font-size: 25px;margin-top: 70px;color: black; }
+
+
+
+
+
+
